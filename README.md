@@ -1,7 +1,6 @@
 ### Olá! Eu sou o João Victor Gonçalves
 
 - 🌱 Cursando o primeiro período da faculdade de Análise e Desenvolvimento de Sistemas
-- 📒 Estudando CSS e Javascript
 
  <div>
   <a href="https://github.com/jvictorgs">
