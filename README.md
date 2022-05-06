@@ -1,6 +1,7 @@
 ### Olá! Eu sou o João Victor Gonçalves
 
 - Cursando o segundo período da faculdade de Análise e Desenvolvimento de Sistemas
+- Cursando Bootcamp Decola Tech 3º Edição pela Digital Innovation One (Javascript e React Native)
 
  <div>
   <a href="https://github.com/jvictorgs">
