@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Victor Gonçalves
 
-- Cursando o segundo período da faculdade de Análise e Desenvolvimento de Sistemas
+- Cursando o terceiro período da faculdade de Análise e Desenvolvimento de Sistemas
 - 📘 Bootcamp Decola Tech 3º Edição (Javascript e React Native) ✅
 - 📘 Formção Front-End - Alura
 
