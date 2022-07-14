@@ -2,7 +2,7 @@
 
 - Cursando o segundo período da faculdade de Análise e Desenvolvimento de Sistemas
 - 📘 Bootcamp Decola Tech 3º Edição (Javascript e React Native) ✅
-- 📘 Bootcamp Santander Fullstack Developer (Javascript, Angular, Java e Spring Framework)
+- 📘 Formção Front-End completa - Alura
 
  <div>
   <a href="https://github.com/jvictorgs">
