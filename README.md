@@ -2,7 +2,7 @@
 
 - Cursando o terceiro período da faculdade de Análise e Desenvolvimento de Sistemas
 - 📘 Bootcamp Decola Tech 3º Edição (Javascript e React Native) ✅
-- 📘 Formção Front-End - Alura
+- 📘 Formação Front-End - Alura
 
  <div>
   <a href="https://github.com/jvictorgs">
