@@ -1,8 +1,9 @@
 ### Olá! Eu sou o João Victor Gonçalves
 
-- Cursando o terceiro período da faculdade de Análise e Desenvolvimento de Sistemas
+- Cursando o 4º período da faculdade de Análise e Desenvolvimento de Sistemas
 - 📘 Digital Innovation One: Bootcamp Decola Tech 3º Edição (HTML5, CSS3 e Javascript) ✅
-- 📘 Alura: Formação Front-End
+- 📘 Alura: Formação Data Science (SQL com MySQL) ✅
+- 📘 Alura: Formação Front-End (HTML5, CSS3, Javascript e React.js)
 
  <div>
   <a href="https://github.com/jvictorgs">
@@ -16,10 +17,7 @@
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="João-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg">
-   <img align="center" alt="João-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="João-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="João-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="João-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
 </div>
   
